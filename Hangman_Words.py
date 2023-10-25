@@ -1,4 +1,4 @@
-word_list = [
+words = [
 'abruptly', 
 'absurd', 
 'abyss', 
