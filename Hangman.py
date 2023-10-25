@@ -1,7 +1,7 @@
 #Create random word
 import random
-from hangman_words import words
-from hangman_art import logo, stages
+from Hangman_Words import words 
+from Hangman_Art import logo, stages
 print(logo)
 end_game = False
 rand_word = random.choice(words)
